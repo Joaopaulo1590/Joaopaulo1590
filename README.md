@@ -37,8 +37,5 @@
   
 
     
-   ![Snake animation](https://github.com/Joaopaulo1590/Joaopaulo1590/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
- 
+  
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Joaopaulo1590&repo=Joaopaulo1590&theme=react)](https://github.com/Joaopaulo1590/Joaopaulo15901)
