@@ -38,4 +38,3 @@
 
     
   
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Joaopaulo1590&repo=Joaopaulo1590&theme=react)](https://github.com/Joaopaulo1590/Joaopaulo15901)
